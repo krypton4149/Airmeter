@@ -1,0 +1,23 @@
+{
+  "name": "react-native-zeroconf",
+  "version": "0.13.8",
+  "summary": "A Zeroconf discovery utility for react-native",
+  "license": "MIT",
+  "authors": "Balthazar Gronon <bgronon@gmail.com>",
+  "homepage": "https://github.com/balthazar/react-native-zeroconf",
+  "platforms": {
+    "ios": "9.0",
+    "osx": "10.13",
+    "tvos": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/balthazar/react-native-zeroconf.git",
+    "tag": "v0.13.8"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}

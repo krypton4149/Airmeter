@@ -1,0 +1,6 @@
+framework module react_native_service_discovery {
+  umbrella header "react-native-service-discovery-umbrella.h"
+
+  export *
+  module * { export * }
+}

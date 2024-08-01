@@ -1,0 +1,6 @@
+framework module react_native_find_local_devices {
+  umbrella header "react-native-find-local-devices-umbrella.h"
+
+  export *
+  module * { export * }
+}

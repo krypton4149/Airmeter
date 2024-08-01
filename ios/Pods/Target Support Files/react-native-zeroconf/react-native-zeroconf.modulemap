@@ -1,0 +1,6 @@
+framework module react_native_zeroconf {
+  umbrella header "react-native-zeroconf-umbrella.h"
+
+  export *
+  module * { export * }
+}
